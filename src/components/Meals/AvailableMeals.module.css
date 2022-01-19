@@ -4,6 +4,10 @@
     margin: 2rem auto;
     animation: meals-appear 1s ease-out forwards;
   }
+  .MealLoading{
+    text-align: center;
+    color: wheat;
+  }
   
   .meals ul {
     list-style: none;
